@@ -12,7 +12,9 @@ psycopg2-binary = "^2.9.12"
 djangorestframework = "^3.17.1"
 pillow = "^12.2.0"
 python-dotenv = "^1.2.2"
-dotenv = "^0.9.9"
+flake8 = "^7.3.0"
+isort = "^8.0.1"
+black = "^26.5.1"
 
 
 [build-system]
